@@ -1,0 +1,32 @@
+body{
+	background-color: red;
+	background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.center{
+	text-align: center;
+}
+.header{
+	margin-top: 4px;
+	padding-bottom: 50px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+.container{
+	background-color: white;
+}
+.content{
+	padding: 10px;
+}
+.footer textarea{
+	height: 500px;
+}
+.footer{
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
